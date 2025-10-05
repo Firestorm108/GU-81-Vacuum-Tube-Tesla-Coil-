@@ -10,9 +10,3 @@ This is my journal of the design and building process of **Vacuum Tube Tesla Coi
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/174).
 
 
-## 10/5/2025 - Research  
-
-I did some research on VTTCs as a whole and what specifications I'm going for. So far I think a single microwave transformer as the input is the best idea, and a GU-81M tube to do the switching. This should keep power high and costs somewhat low hopefully. MOTs are quite dangerous so I'm going to integrate an e-stop and go heavy on the insulation, I don't want to risk anything. I was thinking of doing an HFVTTC, and make huge plasma flames, but the secondary is very lethal on that and the ozone production is crazy. Also it'd probably destroy all the electronics in my household. So a regular 'sword-spark' VTTC is what I'm going with.[FTG7JUVFVIPVHEK.webp](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjM1LCJwdXIiOiJibG9iX2lkIn19--42d35077b252c50a2d591553e712c4ef5d11c130/FTG7JUVFVIPVHEK.webp)
-![196_0_583_533_Image71-1024x576.jpg](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjM2LCJwdXIiOiJibG9iX2lkIn19--7b66537da950eeebf756af6256152544fd9add0a/196_0_583_533_Image71-1024x576.jpg)
-  
-
